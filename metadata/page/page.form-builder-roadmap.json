@@ -1,0 +1,7 @@
+{
+  "_id": "page.form-builder-roadmap",
+  "_type": "page.content",
+  "body": "The Form Builder roadmap shows the things we’re working on and what we plan to offer. This might change depending on testing, research and feedback from users.\r\n\r\nForm Builder is in alpha. This means we're:\r\n\r\n* building a prototype of our tool \r\n* testing our prototype with users\r\n* training and offering support to users who've started to use Form Builder\r\n* iterating based on user testing and feedback    \r\n\r\n### October to December 2018\r\n\r\n* Provide an easy workflow process for users to create, edit and publish digital forms\r\n* Improve the user experience for the editor and publisher    \r\n\r\n### January to March 2019\r\n\r\n* Test Form Builder with 3 digital teams\r\n* Add new features to support more forms (save and return, configurable output, file attachment, user authentication)   \r\n\r\n### April 2019 onwards\r\n\r\n* Roll Form Builder out to more digital teams at MOJ\r\n\r\n### Queries and suggestions\r\n\r\nYou can [contact us](form-builder-team@digital.justice.gov.uk) for more detail about these features, or to suggest something you'd like Form Builder to offer. You can also ask us a question over our [Slack channel](https://mojdt.slack.com/messages/CE26QEL1Z/).",
+  "heading": "Roadmap",
+  "url": "form-builder-roadmap"
+}

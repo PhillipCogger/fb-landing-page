@@ -1,0 +1,8 @@
+{
+  "_id": "page.landing",
+  "_type": "page.content",
+  "body": "### You can use Form Builder to:\r\n\r\n* create, edit and publish digital forms using the GDS Design System\r\n* deploy your forms quickly and easily\r\n* understand the users of your forms\r\n* reduce errors when users fill forms in\r\n* support a new digital service\r\n\r\n[See how Form Builder works]( https://youtu.be/zGU_FoBQh-Q).",
+  "heading": "Create and publish digital forms from scratch",
+  "lede": "Form Builder allows you to create and publish digital forms without any technical knowledge.",
+  "url": "/"
+}
